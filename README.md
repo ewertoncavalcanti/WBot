@@ -42,7 +42,7 @@ This project depends on the following package: [CEF4Delphi](https://github.com/s
 
 You can support the maintainer of this project through the link below
 
-[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Y85CKHM96Z27G&currency_code=BRL&source=url)
+[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=KQMW6E9S3DWTA)
 
 ## Contributions
 Contributions are welcome! Please, open an issue before submit any kind (ideas, documentation, code, ...) of contribution.
